@@ -1,6 +1,6 @@
 # NuevaWeb
-El proyecto de HTML esta basado en la creación de una web site muy simple estructuralmente hablando, con información acerca de la ciudad de Salamanca, dirigido a un público que desee visitar esta ciudad. La web consta de recomendaciones de lugares, sitios donde salir e información gastronomica.
-El proyecto en cuanto a la información trata acerca  de caracteristicas culturales de la ciudad de Salamanca. Tratando temas como lugares que debes de visitar si vas, su cultura gastronomica y restaurantes recomendados para ir y sitios donde salir de fiesta. Ademas se hace un breve resumen de la ciudad. 
+The HTML project is based on the creation of a very simple web site structurally speaking, with information about the city of Salamanca, aimed at an audience that wishes to visit this city. The website consists of recommendations of places, places to go out and gastronomic information.
+The project in terms of information deals with cultural characteristics of the city of Salamanca. Dealing with topics such as places you should visit if you go, its gastronomic culture and recommended restaurants to go to and places to party. In addition, a brief summary of the city is made.
 ## Table of Contents
 1. [General Info](#general-info)
 2. [Structure](#structure)
@@ -10,19 +10,19 @@ El proyecto en cuanto a la información trata acerca  de caracteristicas cultura
 6. [Conclusions](#conclusions)
 
 ## General Information
-Las caracteristicas culturales de la ciudad de Salamanca son basadas en recomendaciones de los propios "salmantinos". El web site esta creado en un formato donde la informacion pueda ser concisa y no exceda de unas recomendaciones básicas que sean mas atractivas al leector. Para posibles colaboradores futuros estaria bien crear nuevas secciones con recomendaciones de sitios donde alojarse o viajes baratos fuera de la ciudad. Aunque tambien cabe mencionar que se deberia de seguir el formato ya anteriormente expuesto.
+The cultural characteristics of the city of Salamanca are based on recommendations from the "Salmantinos" themselves. The website is created in a format where the information can be concise and does not exceed basic recommendations that are more attractive to the reader. For possible future collaborators, it would be good to create new sections with recommendations for places to stay or cheap trips out of the city. Although it is also worth mentioning that the format already stated above should be followed.
 
 ## Structure
-La estructura externa esta bien diferenciada gracias a su concisión. La pagina es un micrositio que consta de una pagina principal y un pequeño indice a la izquierda que permanece constante en toda la web, si pinchas en él, te redirige al apartado seleccionado, aunque puedes acceder a él tambien scrolleando la pantalla. El indice se compone de 4 apartados que son: gastronomic experiencies, night-life, what to visit? and contact. Contact esta pensado para que cualquier persona interesada pueda dejarnos su nombre y correo junto a sugerencias para mejorar la web o posibles preguntas. 
-En cuanto a la extructura interna del proyecto, este esta hecho con Visual Studio Code, y consta de 5 apartados: css, images, public, LICENSE y README.md. 
-- En el README.md estamos realizando una descripción del proyecto. Este apartado es necesario e importante debido a su utilidad para posibles colaboradores ya que se explica la realización del proyecto fuera de su ejecución y programación. De esta manera, por ejemplo si fuese un proyecto abierto, podrían seguir el proyecto de forma adecuada.
-- En el LICENSE se hace una exposición en detalle del GNU GENERAL PUBLIC LICENSE en la Version 3, creada el 29 June 2007. Este apartado tambien es obligatorio ya que explica los terminos y condiciones de uso del sistema.
-- En images se ponen las fotos que se establecen en la página web. Tampoco es del todo necesario ya que se podria incluir en index directamente, pero mejora significativamente la organización.
-- css(Cascading Style Sheets) tiene un subapartado llamado styles.css. donde controlamos las funcionalidades y  el diseño de nuestra pagina web, como por ejemplo los colores, la disposicion de la estructura o el tamaño de los apartados. Como en el anterior apartado, se podria incluir en el index, pero perderia mucha claridad en el proyecto y podría causar una confusión que se puede evitar utilizando esta buena practica.
-- Por último en public, tenemos otro subapartado, index.html. Aqui se dispone toda la información del programa y los diferentes elementos html, entre ellos el texto o los enlaces, elementos que permitan a un usuario interactuar con la web.
+The external structure is well differentiated thanks to its conciseness. The page is a microsite that consists of a main page and a small index on the left that remains constant throughout the website. If you click on it, it redirects you to the selected section, although you can also access it by scrolling the screen. The index is made up of 4 sections: gastronomic experiences, night-life, what to visit? and contact. Contact is designed so that anyone interested can leave us their name and email along with suggestions to improve the website or possible questions.
+As for the internal structure of the project, it is made with Visual Studio Code, and consists of 5 sections: css, images, public, LICENSE and README.md.
+- In the README.md we are making a description of the project. This section is necessary and important due to its usefulness for potential collaborators since it explains the implementation of the project outside of its execution and programming. This way, for example if it were an open project, they could follow the project appropriately.
+- The LICENSE provides a detailed presentation of the GNU GENERAL PUBLIC LICENSE in Version 3, created on June 29, 2007. This section is also mandatory since it explains the terms and conditions of use of the system.
+- In images the photos that are established on the website are placed. It is also not entirely necessary since it could be included in the index directly, but it significantly improves the organization.
+- css(Cascading Style Sheets) has a subsection called styles.css. where we control the functionalities and design of our website, such as the colors, the layout of the structure or the size of the sections. As in the previous section, it could be included in the index, but it would lose a lot of clarity in the project and could cause confusion that can be avoided by using this good practice.
+- Finally in public, we have another subsection, index.html. All the program information and the different HTML elements are available here, including text or links, elements that allow a user to interact with the web.
 
 ## Project status
-El estado del proyecto es acabado, se podrian hacer modifiaciones pero es una web sencilla que no necesita nada más. Para posibles colaboradores bastaria con añadir nuevos apartados en la estructura externa del programa.
+The status of the project is finished, modifications could be made but it is a simple website that does not need anything else. For potential collaborators, it would be enough to add new sections to the external structure of the program.
 
 ## Technologies
 A list of technologies used within the project:
@@ -30,11 +30,11 @@ A list of technologies used within the project:
 * [Git Hub](https://github.com/): Version 2.42.0.windows.2
 
 ## Problems
-Los principales problemas del trabajo durante la realización principalmente han sido a causa de la descarga de una plantilla para la utilización, debido a que la extensión de la información de esta ha sido más extensa que la capacidad de un novato en cuanto a realización de páginas web. Tenia comandos que no habiamos dado y ha sido largo el tiempo dedicado a ello. Aunque como ya he dicho, el tiempo dedicado es visiblemente la única solucion al problema. 
-Otro problema fue la creación del css, ya que cuando me guardaba el css de la plantilla y lo trasponia en el style, la página web cambiaba su diseño radicalmente y no hacia caso a las pautas del css. Aunque tras mucho tiempo de ver el error, lo consegui arreglar, aparte que luego cambiar las lineas preescritas no me fue complicado(esto para cambiar su diseño).
-Por último, y el problema que más me supuso tiempo fue el de crear un nuevo repositorio donde trabajar en Visual Studio Code. Aunque teniamos las instrucciones de como hacerlo y ya lo habiamos hecho anteriormente en clase. Costo su tiempo averiguar como podia crear otro nuevo, además de que no entendia como poder enlazarlo con la plantilla, aunque como todo, lo solucione con el tiempo. 
+The main work problems during the creation have mainly been due to the downloading of a template for use, because the extent of the information on it has been more extensive than the capacity of a novice in terms of creating web pages. . I had commands that we had not given and the time spent on it has been long. Although as I have already said, time spent is clearly the only solution to the problem.
+Another problem was the creation of the CSS, since when I saved the CSS of the template and transposed it into the style, the website changed its design radically and did not pay attention to the CSS guidelines. Although after a long time of seeing the error, I managed to fix it, apart from the fact that changing the prewritten lines was not difficult for me (this to change its design).
+Finally, and the problem that took the most time for me was creating a new repository to work on in Visual Studio Code. Although we had instructions on how to do it and we had already done it before in class. It took him some time to figure out how he could create a new one, plus he didn't understand how to link it to the template, although like everything, he solved it over time. 
 
 ## Conclusions
-El proyecto pese a sus adversidades ha salido bien y cuenta con todo lo necesario para que la página sea legible, bonita y bien estructurada. Los problemas anteriormente mencionados podrían ser solucionados con más practica en cuanto a diseños web e información de las distinas webs y metodologias que se puedan usar, lo cual se puede conseguir con experiencia y practica en un futuro. 
-La web podría ser mejorada con la ayuda de otros colaboradores con más conocimientos en las diferentes areas aparte de 
+The project, despite its adversities, has turned out well and has everything necessary to make the page readable, beautiful and well structured. The aforementioned problems could be solved with more practice in terms of web designs and information on the different websites and methodologies that can be used, which can be achieved with experience and practice in the future.
+The website could be improved with the help of other collaborators with more knowledge in the different areas of design or programming, although the website is really designed practically and without errors.
 
